@@ -1,6 +1,6 @@
 # Molecular Classification of P53 Agonists via Artifical Neural Networks
 
-This was an undergraduate research project conducted by [Jonathan Hampton](www.linkedin.com/in/hamptonjc) in November of 2019 at East Tennessee State University. The project advisor was [Dr. Jeff Knisley](https://sites.google.com/site/drjknisley/).
+This was an undergraduate research project conducted by [Jonathan Hampton](https://www.linkedin.com/in/jonathan-hampton-3a958414a/) in November of 2019 at East Tennessee State University. The project advisor was [Dr. Jeff Knisley](https://sites.google.com/site/drjknisley/).
 
 ## Description
 
